@@ -1,0 +1,20 @@
+<Solution>
+  <Folder Name="/src/" />
+  <Folder Name="/src/Application/">
+    <Project Path="WebApplication.Application/WebApplication.Application.csproj" />
+  </Folder>
+  <Folder Name="/src/Domain/">
+    <Project Path="WebApplication.Domain/WebApplication.Domain.csproj" />
+  </Folder>
+  <Folder Name="/src/Instrastructure/" />
+  <Folder Name="/src/Instrastructure/Caching/" />
+  <Folder Name="/src/Instrastructure/Logging/" />
+  <Folder Name="/src/Instrastructure/Messaging/" />
+  <Folder Name="/src/Instrastructure/Persistence/">
+    <Project Path="WebApplication.Persistence/WebApplication.Persistence.csproj" />
+  </Folder>
+  <Folder Name="/src/Presentation/">
+    <Project Path="WebApplication.RESTfulAPI/WebApplication.RESTfulAPI.csproj" />
+  </Folder>
+  <Folder Name="/test/" />
+</Solution>
