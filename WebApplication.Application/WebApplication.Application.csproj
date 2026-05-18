@@ -10,4 +10,10 @@
     <ProjectReference Include="..\WebApplication.Domain\WebApplication.Domain.csproj" />
   </ItemGroup>
 
+  <ItemGroup>
+    <Folder Include="Products\Create\" />
+    <Folder Include="Products\Delete\" />
+    <Folder Include="Products\Update\" />
+  </ItemGroup>
+
 </Project>
